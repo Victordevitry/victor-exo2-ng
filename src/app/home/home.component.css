@@ -1,0 +1,10 @@
+.gifContainer{
+    margin: auto;
+    text-align: center;
+    
+    top: 50%;
+
+     transform: translateY(25%);
+    vertical-align: middle;
+
+}

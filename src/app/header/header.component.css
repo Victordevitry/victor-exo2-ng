@@ -1,0 +1,22 @@
+#header{
+    margin-top:0;
+    height: 40px;
+    width: 100%;
+    background-color: black;
+    color:white;
+}
+
+.nav-link{
+    text-decoration: none;
+    color:white;
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+
+.nav-item{
+}
+
+.navbar-menu{
+    
+}

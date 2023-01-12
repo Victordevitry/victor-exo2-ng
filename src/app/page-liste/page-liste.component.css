@@ -1,0 +1,33 @@
+.carteFilm{
+    background-color: darkgray;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: 420px;
+    margin-bottom: 20px;
+
+}
+
+.centeredRow{
+    margin: auto;
+    text-align: center;
+    
+
+
+    margin-top: 100px;
+    position:relative;
+    width: 300px;
+}
+
+.title{
+    margin-top: 10px;
+    font-size: 25;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.imageFilm{
+    margin-top: 10px;
+    width: 350px;
+    height:360px;
+}
